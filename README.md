@@ -1,7 +1,8 @@
 ![MasterHead](https://cdn-images-1.medium.com/max/1024/1*UtNu7pmbt3WEA213SW9p9Q.png)
 <h1 align="center">Hi 👋, I'm Fahmi Azzuhri Efki</h1>
+h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" alt="coding" align="right">
-<h3 align="left">A passionate Frontend Developer from Indonesia</h3>
+<h3 align="left">About Me</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
