@@ -4,6 +4,10 @@
 <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" alt="coding" align="right">
 <h3 align="left">About Me</h3>
 
+- 🎓 Students at Bina Sarana Informatika
+
+- 🏡 I Live in Bekasi,Indonesia
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [fahmiandroidart.blogspot.com](fahmiandroidart.blogspot.com)
@@ -11,8 +15,6 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **fahmiazzuhriefki@gmail.com**
-
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
