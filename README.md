@@ -9,7 +9,7 @@
 
 - 🏡 I Live in Bekasi,Indonesia
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **fahmiazzuhriefki@gmail.com**
 
