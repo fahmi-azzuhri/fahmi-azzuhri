@@ -1,4 +1,4 @@
-
+[![An image of @fahmiazzuhri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fahmiazzuhri)](https://holopin.io/@fahmiazzuhri)
 ![MasterHead](https://cdn-images-1.medium.com/max/1024/1*UtNu7pmbt3WEA213SW9p9Q.png)
 <h1 align="center">Hi 👋, I'm Fahmi Azzuhri Efki</h1>
 <h3 align="center">Frontend Web Developer | UI UX Designer</h3>
@@ -22,4 +22,5 @@
 <p> <img src="https://camo.githubusercontent.com/ee683c6a8a97b306579b59dcc4352f9aa0bf6253b121f8c48f302174a7551cb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652532302d2532333030373864372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" alt="vscode"/>  </p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fahmi-azzuhri&show_icons=true&locale=en&layout=compact" alt="fahmi-azzuhri" /></p>
-[![An image of @fahmiazzuhri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fahmiazzuhri)](https://holopin.io/@fahmiazzuhri)
+
+
