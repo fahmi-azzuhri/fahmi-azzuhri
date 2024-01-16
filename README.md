@@ -7,7 +7,7 @@
 
 - 🏡 I Live in Bekasi,Indonesia
 
-- 🌱 I’m currently learning **ReactJS**,**NextJS**,**VueJS** 
+- 🌱 I’m currently learning **Fullstack Javascript** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
