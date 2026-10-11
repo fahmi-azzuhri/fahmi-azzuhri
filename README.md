@@ -29,17 +29,4 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 ### On Repeat
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://music.youtube.com/watch?v=0e7uplpFJdE&amp;list=RDAMVM0e7uplpFJdE">
-        <img src="https://i.ytimg.com/vi/0e7uplpFJdE/hqdefault.jpg" width="212" height="159" alt="Love, Maybe thumbnail">
-      </a>
-    </td>
-    <td>
-      <a href="https://music.youtube.com/watch?v=0e7uplpFJdE&amp;list=RDAMVM0e7uplpFJdE">
-        <img src="./now-playing.svg" alt="Love, Maybe by MeloMance" width="680" height="159">
-      </a>
-    </td>
-  </tr>
-</table>
+[Open my now-playing card](https://fahmi-azzuhri.github.io/fahmi-azzuhri/now-playing.html)
