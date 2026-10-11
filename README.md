@@ -29,17 +29,4 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 ### On Repeat
 
-<table>
-  <tr>
-    <td>
-      <a href="https://music.youtube.com/watch?v=0e7uplpFJdE&list=RDAMVM0e7uplpFJdE">
-        <img src="https://i.ytimg.com/vi/0e7uplpFJdE/hqdefault.jpg" width="180" alt="Love, Maybe by MeloMance">
-      </a>
-    </td>
-    <td>
-      <a href="https://music.youtube.com/watch?v=0e7uplpFJdE&list=RDAMVM0e7uplpFJdE"><strong>Love, Maybe</strong></a><br>
-      MeloMance<br>
-      Love, Maybe (A Business Proposal OST Special Track)
-    </td>
-  </tr>
-</table>
+[![Love, Maybe by MeloMance](./now-playing.svg)](https://music.youtube.com/watch?v=0e7uplpFJdE&list=RDAMVM0e7uplpFJdE)
