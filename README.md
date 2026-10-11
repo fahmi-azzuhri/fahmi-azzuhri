@@ -1,10 +1,12 @@
 [![An image of @fahmiazzuhri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fahmiazzuhri)](https://holopin.io/@fahmiazzuhri)
 ![MasterHead](https://cdn-images-1.medium.com/max/1024/1*UtNu7pmbt3WEA213SW9p9Q.png)
+
 <h1 align="center">Hi 👋, I'm Fahmi Azzuhri Efki</h1>
 <h3 align="center">Frontend Web Developer | UI UX Designer</h3>
 <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" alt="coding" align="right">
 
 ### Frontend
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -20,6 +22,7 @@
 </p>
 
 ### Backend
+
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -31,6 +34,7 @@
 </p>
 
 ### Programming
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -38,10 +42,18 @@
   <span style="display:inline-block; width: 10px;"></span>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmi-azzuhri/fahmi-azzuhri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahmi-azzuhri/fahmi-azzuhri/output/github-contribution-grid-snake.svg">
+  <img alt="Animasi snake pada contribution graph GitHub" src="https://raw.githubusercontent.com/fahmi-azzuhri/fahmi-azzuhri/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=fahmi-azzuhri&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### Connect with me :
+
 <p align="left">
   <a href="https://fb.com/fahmi.azzuhri" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmi.azzuhri" height="30" width="40"/>
