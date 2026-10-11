@@ -10,6 +10,7 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [Rukunin](https://github.com/fahmi-azzuhri/rukunin) | RT/RW neighborhood management app for administration, communication, and finances. | Go, React, TypeScript |
 | [Kitsunex](https://github.com/fahmi-azzuhri/kitsunex) | Anime discovery app with search, schedules, and episode pages. | React, TypeScript |
 | [Gothify](https://github.com/fahmi-azzuhri/gothify) | CLI for generating configurable full-stack Go starters. | Go |
 
