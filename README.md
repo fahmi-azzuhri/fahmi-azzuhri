@@ -29,4 +29,4 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 ### On Repeat
 
-[![Now Playing: Love, Maybe by MeloMance](https://image.thum.io/get/width/920/crop/800/noanimate/https://efgkode.edgeone.dev/)](https://efgkode.edgeone.dev/)
+[![Now Playing: Love, Maybe by MeloMance](./now-playing-preview.png)](https://efgkode.edgeone.dev/)
