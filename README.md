@@ -29,8 +29,4 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 ### On Repeat
 
-<a href="https://efgkode.edgeone.dev/">
-  <img src="https://i.ytimg.com/vi/0e7uplpFJdE/hqdefault.jpg" width="480" alt="Love, Maybe by MeloMance">
-</a>
-
-**Love, Maybe** · MeloMance
+[![Now Playing: Love, Maybe by MeloMance](https://image.thum.io/get/width/920/crop/800/noanimate/https://efgkode.edgeone.dev/)](https://efgkode.edgeone.dev/)
