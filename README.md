@@ -29,4 +29,4 @@ I build web interfaces with a focus on clear visual hierarchy, thoughtful intera
 
 ### On Repeat
 
-[Open my now-playing card](https://fahmi-azzuhri.github.io/fahmi-azzuhri/now-playing.html)
+[Open my now-playing card](https://efgkode.edgeone.dev/)
